@@ -1,1 +1,1 @@
-const app = "I don't do much."
+function destructivelyAppendKitten(Ralph){   kittens.push('Ralph')  return ['Milo', 'Otis', 'Garfield', 'Ralph']}function destructivelyPrependKitten(Bob){  kittens.upshift('Bob')  return ['Bob', 'Milo', 'Otis', 'Garfield']}
